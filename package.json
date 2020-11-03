@@ -1,6 +1,6 @@
 {
   "name": "wasend",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "description": "WhatsApp Send URL Generator. Help you to generate url to send whatsapp message.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yozawiratama/wame.git"
+    "url": "git+https://github.com/yozawiratama/wasend.git"
   },
   "keywords": [
     "whatsapp",
