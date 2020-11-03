@@ -1,0 +1,25 @@
+{
+  "name": "wame",
+  "version": "1.0.0",
+  "description": "WhatsApp Send URL Generator. Help you to generate url to send whatsapp message.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yozawiratama/wame.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "text",
+    "string",
+    "generator"
+  ],
+  "author": "Yoza Wiratama <yoza@wiratamazen.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yozawiratama/wame/issues"
+  },
+  "homepage": "https://github.com/yozawiratama/wame#readme"
+}
