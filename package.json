@@ -1,5 +1,5 @@
 {
-  "name": "wame",
+  "name": "wasend",
   "version": "0.5.2",
   "description": "WhatsApp Send URL Generator. Help you to generate url to send whatsapp message.",
   "main": "index.js",
